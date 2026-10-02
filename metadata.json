@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Predictor",
+  "description": "AI-powered academic performance estimation using machine learning with Python, Scikit-learn, and Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
